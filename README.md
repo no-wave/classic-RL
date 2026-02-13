@@ -4,7 +4,7 @@
 <img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FuCZSbmtsV76TFuH7Be0r%252FRL1.png%3Falt%3Dmedia%26token%3D7582913e-a36c-42ba-b121-ee5f5c1b8773&width=300&dpr=3&quality=100&sign=7e85da32&sv=2" width="500", height="707"/>
 
 
-<img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FypgroGjhlTxVelbYRQey%252FFrame%25207.png%3Falt%3Dmedia%26token%3D3ba304e0-8cb6-47f4-bbc6-69eac7a68cfc&width=300&dpr=3&quality=100&sign=cb064d68&sv=2" width="500" height="707"/>
+<img src="]https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FuCZSbmtsV76TFuH7Be0r%252FRL1.png%3Falt%3Dmedia%26token%3D7582913e-a36c-42ba-b121-ee5f5c1b8773&width=300&dpr=3&quality=100&sign=7e85da32&sv=2" width="500" height="707"/>
 
 
 <img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FuCZSbmtsV76TFuH7Be0r%252FRL1.png%3Falt%3Dmedia%26token%3D7582913e-a36c-42ba-b121-ee5f5c1b8773&width=300&dpr=3&quality=100&sign=7e85da32&sv=2" width="500", height="707"/>
